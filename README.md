@@ -1,11 +1,11 @@
-# TowardsTheUnknown
+# TowardsTheUnknown First Official Repository
 
 Towards The Unknown is a turn-base grid-base rogue-lite. You play as an explorer who go in a giant crack looking to get ressources to bring to you village to upgrade it and upgrade you character. You fight mutated beasts, find new equipment, some are stronger, some are weaker, it's up to you to discover it. Be carreful, your inventory is limited and you can't carry everything, make you inventory as tidy as possible. Will you be brave enough to find the first explorer dead in the crack?
 
 # A student project
 
 This is a student project, we were working on our personnal time after courses because we didn't have courses to work on that project. <br/>
-The project has been created near January 2022 and the purpose was to present the game in theCannes Festival International du Jeu (Cannes International Game Festival). So the deadline was mid-February 2023.<br/>
+The project has been created in January 2022 and the purpose was to present the game in theCannes Festival International du Jeu (Cannes International Game Festival). So the deadline was mid-February 2023.<br/>
 
 # Why the repository is not up-to-date?
 
@@ -42,7 +42,7 @@ In mid-September we recruted some peoples and the team was now composed of 8 peo
 
 # My work
 
-I was the <b>Lead Dev</b> of that project for a year on that project, from the first brain-storming to the end (when we deliver the game), the deadline is 14 months, so I've been Lead Dev almost all long. <br/>
+I was the <b>Lead Dev</b> of that project for 11 months on that project, from the first brain-storming to the end (when we deliver the game), the deadline is 13 months, so I've been Lead Dev almost all long. <br/>
 
 I've done :
 <ul>
