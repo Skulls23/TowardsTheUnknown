@@ -9,7 +9,7 @@ The project has been created in January 2022 and the purpose was to present the 
 
 # Why the repository is not up-to-date?
 
-<b>This repository will not be updated anymore</b>, I'm no longer part of the team since December, 21th of 2022. <b>I was harassed and forced to crunch</b>, I couldn't accept and stay in this team, I will work as a helper for other groups needing help.
+<b>This repository will not be updated anymore</b>, I'm no longer part of the team since December, 21th of 2022, after 11 months of work. <b>I was harassed and forced to crunch</b>, I couldn't accept and stay in this team, I will work as a helper for other groups needing help.
 
 # Our inspirations
 
