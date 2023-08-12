@@ -2,6 +2,10 @@
 
 Towards The Unknown is a turn-base grid-base rogue-lite. You play as an explorer who go in a giant crack looking to get ressources to bring to you village to upgrade it and upgrade you character. You fight mutated beasts, find new equipment, some are stronger, some are weaker, it's up to you to discover it. Be carreful, your inventory is limited and you can't carry everything, make you inventory as tidy as possible. Will you be brave enough to find the first explorer dead in the crack?
 
+# Where to download?
+
+You can find it on steam : https://store.steampowered.com/app/2232100/Towards_the_Unknown/
+
 # A student project
 
 This is a student project, we were working on our personnal time after courses because we didn't have courses to work on that project. <br/>
@@ -9,7 +13,7 @@ The project has been created in January 2022 and the purpose was to present the 
 
 # Why the repository is not up-to-date?
 
-<b>This repository will not be updated anymore</b>, I'm no longer part of the team since December, 21th of 2022, after 11 months of work. <b>I was harassed and forced to crunch</b>, I couldn't accept and stay in this team, I will work as a helper for other groups needing help.
+<b>This repository will not be updated anymore</b>, I'm no longer part of the team since December, 21th of 2022, after 11 months of work. Crunch and bad managing behaviour forced me to leave the project before the end. I worked as a helper for other student groups that needed help.
 
 # Our inspirations
 
